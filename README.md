@@ -1,5 +1,5 @@
 # SQL Data Warehouse: End-to-End Sales Analytics
-Building a data warehouse to generate actionable insights. 
+Engineered by hand and AI across Staging, Silver, and Gold layers—proving that autonomous AI cannot manage the complex schema dependencies, structural debugging, and architectural trade-offs of a true end-to-end data warehouse. 
 
 ## 📊 Project Overview
 This project demonstrates the architecture and implementation of a professional **Data Warehouse**. It showcases the transformation of raw transactional data into a high-performance **Star Schema** (alternative to Snowflakw Schema) optimized for business intelligence and analytics.

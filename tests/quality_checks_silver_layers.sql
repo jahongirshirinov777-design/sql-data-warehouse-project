@@ -1,6 +1,7 @@
 /*===========================================================================
-Quality Checks
-for myself:
+Quality Checks of Silver Layer
+-- WARNING:
+-- This script may not run flawlessly since I used it as a draft for the project
 ===========================================================================*/
 
 -- Checking if Sales = Quantity * Price

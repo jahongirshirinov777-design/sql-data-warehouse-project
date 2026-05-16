@@ -1,6 +1,9 @@
 -- Gold Layer Check:
 -- Taking more important values from two almost similar columns
 
+-- WARNING:
+-- This script may not run flawlessly since I used it as a draft for the project
+
 SELECT DISTINCT
 	ci.cst_gndr,
 	ca.gen,
